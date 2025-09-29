@@ -36,3 +36,5 @@ https://reurl.cc/89aLAo
 
 作品連結:
 https://reurl.cc/qYR6GE
+
+[![文字探勘](文字探勘.png)](文字探勘導論課程專題企劃書第十三組.pptx(2).pdf)
