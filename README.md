@@ -37,7 +37,7 @@ https://reurl.cc/K9WR0m
 作品連結:
 https://reurl.cc/NxMgOn
 
-[![櫃買](櫃買.png)](櫃買中心比賽.pdf)
+[![櫃買](櫃買1.png)](櫃買中心比賽.pdf)
 
 ### 二、課程專題
 
